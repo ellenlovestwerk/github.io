@@ -1,0 +1,10 @@
+The problem with installing vagrant on Windows10
+
+```Failed to locate the powershell executable on the available PATH. 
+Please
+ensure powershell is installed and available on the local PATH, then
+run the command again.
+```
+
+The method to solve this problem: 
+add powershell path to enviroment variables.
