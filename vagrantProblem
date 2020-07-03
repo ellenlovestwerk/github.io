@@ -7,4 +7,4 @@ run the command again.
 ```
 
 The method to solve this problem: 
-add powershell path to enviroment variables.
+add powershell path "C:\Windows\System32\WindowsPowerShell\v1.0" to enviroment variables.
