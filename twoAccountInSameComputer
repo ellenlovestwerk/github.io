@@ -1,0 +1,9 @@
+I can not manipulate with github project of our company when I use my coworker's computer since it has the info of his.
+
+When you have to log in company and personal github account with your company and personal computer:
+
+even use git config --global user.name "userName" and
+         git config --global user.email "userEmail"
+to change it with your own username, it doesn't work.
+
+So we have to delte previews Windows Credential or Mac KeyChain github account!
