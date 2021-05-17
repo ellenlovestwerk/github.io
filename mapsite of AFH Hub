@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-17T19:08:58.092Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="-UX8xIu5g1xxQFbvhR7D" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-17T20:33:24.825Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="PSILwxyFr3J5r2lJfIsp" version="14.6.13" type="github">
   <diagram id="sWmLgcxTzUblM5ik1Khx" name="Page-1">
-    <mxGraphModel dx="1934" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2709" dy="1111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -108,23 +108,23 @@
             <mxPoint x="80" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k7Mk6HF2NyFLCEGJj_Vn-30" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+        <mxCell id="k7Mk6HF2NyFLCEGJj_Vn-30" value="" style="endArrow=none;html=1;exitX=0.533;exitY=0.783;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="k7Mk6HF2NyFLCEGJj_Vn-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-290" y="130" as="sourcePoint" />
+            <mxPoint x="-290" y="140" as="sourcePoint" />
             <mxPoint x="-290" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k7Mk6HF2NyFLCEGJj_Vn-31" value="Riversage&amp;nbsp;&lt;br&gt;&lt;u&gt;&lt;font color=&quot;#3333ff&quot;&gt;https://www.riversage.io/&lt;/font&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="385" width="120" height="60" as="geometry" />
+          <mxGeometry x="-110" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k7Mk6HF2NyFLCEGJj_Vn-32" value="CN&lt;br&gt;&lt;u&gt;&lt;font color=&quot;#3333ff&quot;&gt;https://clinical-nutrients.com/&lt;/font&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="465" width="120" height="60" as="geometry" />
+          <mxGeometry x="-110" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k7Mk6HF2NyFLCEGJj_Vn-33" value="IV" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="545" width="120" height="60" as="geometry" />
+          <mxGeometry x="-110" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k7Mk6HF2NyFLCEGJj_Vn-34" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="415" width="40" height="160" as="geometry" />
+          <mxGeometry x="-150" y="400" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="k7Mk6HF2NyFLCEGJj_Vn-35" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.167;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="k7Mk6HF2NyFLCEGJj_Vn-34" target="k7Mk6HF2NyFLCEGJj_Vn-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -147,9 +147,9 @@
         <mxCell id="k7Mk6HF2NyFLCEGJj_Vn-38" value="Contact Us" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="489.5" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k7Mk6HF2NyFLCEGJj_Vn-39" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.433;exitY=0.434;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="k7Mk6HF2NyFLCEGJj_Vn-17" target="k7Mk6HF2NyFLCEGJj_Vn-11">
+        <mxCell id="k7Mk6HF2NyFLCEGJj_Vn-39" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="k7Mk6HF2NyFLCEGJj_Vn-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-50" y="430" as="sourcePoint" />
+            <mxPoint x="80" y="133" as="sourcePoint" />
             <mxPoint y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
