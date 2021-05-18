@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-17T22:41:53.854Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="TSoTHfZ4Js4lEsrJRC-A" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-18T17:27:25.120Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="BP7IA1wP3eYnB7QbfiAW" version="14.6.13" type="github">
   <diagram id="sWmLgcxTzUblM5ik1Khx" name="Page-1">
-    <mxGraphModel dx="2151" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2151" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,7 +18,7 @@
         <mxCell id="k7Mk6HF2NyFLCEGJj_Vn-4" value="Services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-350" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k7Mk6HF2NyFLCEGJj_Vn-5" value="IV and Cafe&lt;br&gt;&lt;span id=&quot;docs-internal-guid-74093519-7fff-6f13-1623-3f1fcdc550e6&quot;&gt;&lt;a href=&quot;http://advanced-infusion-clinic.com&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;roboto&amp;quot; , sans-serif ; background-color: rgb(255 , 255 , 255) ; vertical-align: baseline&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#3333ff&quot;&gt;Advanced-infusion-clinic.com&lt;/font&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="k7Mk6HF2NyFLCEGJj_Vn-5" value="IV&amp;nbsp;&lt;br&gt;&lt;span id=&quot;docs-internal-guid-74093519-7fff-6f13-1623-3f1fcdc550e6&quot;&gt;&lt;a href=&quot;http://advanced-infusion-clinic.com&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;roboto&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; vertical-align: baseline&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#3333ff&quot;&gt;Advanced-infusion-clinic.com&lt;/font&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-310" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k7Mk6HF2NyFLCEGJj_Vn-6" value="ATS&amp;nbsp;&lt;br&gt;&lt;span id=&quot;docs-internal-guid-89b53afa-7fff-94f8-546f-cf0940425132&quot;&gt;&lt;a href=&quot;http://advancedtestingservice.com&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;roboto&amp;quot; , sans-serif ; background-color: rgb(255 , 255 , 255) ; vertical-align: baseline&quot;&gt;&lt;font color=&quot;#3333ff&quot;&gt;Advanced&lt;br&gt;testingservice.com&lt;/font&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -44,9 +44,6 @@
         </mxCell>
         <mxCell id="k7Mk6HF2NyFLCEGJj_Vn-12" value="Anaheim Market&lt;br&gt;&lt;font color=&quot;#3333ff&quot;&gt;https://afh.clinic/&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="59" y="325" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="k7Mk6HF2NyFLCEGJj_Vn-13" value="Desert&lt;br&gt;&lt;span id=&quot;docs-internal-guid-2a22f718-7fff-b598-e769-77fea1e44419&quot;&gt;&lt;a href=&quot;https://domains.google.com/registrar/longevityresearchinstitute.io?utm_medium=cpc&amp;amp;utm_source=google&amp;amp;authuser=2&amp;amp;_ga=2.260055556.84802020.1619455763-1324031469.1603987089&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;roboto&amp;quot; , sans-serif ; background-color: rgb(255 , 255 , 255) ; vertical-align: baseline&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#3333ff&quot;&gt;longevityresearchinstitute.io&lt;/font&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="59" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k7Mk6HF2NyFLCEGJj_Vn-14" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="270" width="19" height="170" as="geometry" />
@@ -208,17 +205,26 @@
         <mxCell id="k7Mk6HF2NyFLCEGJj_Vn-56" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="680.5" y="355" width="19" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="k7Mk6HF2NyFLCEGJj_Vn-57" value="" style="endArrow=none;html=1;strokeWidth=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="460" as="sourcePoint" />
-            <mxPoint x="450" y="410" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="k7Mk6HF2NyFLCEGJj_Vn-59" value="" style="endArrow=none;html=1;entryX=0.167;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="681" y="400" as="sourcePoint" />
             <mxPoint x="680.54" y="310" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="k7Mk6HF2NyFLCEGJj_Vn-60" value="&amp;nbsp;Cafe&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k7Mk6HF2NyFLCEGJj_Vn-61" value="peptide" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k7Mk6HF2NyFLCEGJj_Vn-62" value="Clinic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k7Mk6HF2NyFLCEGJj_Vn-63" value="Vietnam Clinic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k7Mk6HF2NyFLCEGJj_Vn-64" value="Desert&lt;br&gt;&lt;span id=&quot;docs-internal-guid-2a22f718-7fff-b598-e769-77fea1e44419&quot;&gt;&lt;a href=&quot;https://domains.google.com/registrar/longevityresearchinstitute.io?utm_medium=cpc&amp;amp;utm_source=google&amp;amp;authuser=2&amp;amp;_ga=2.260055556.84802020.1619455763-1324031469.1603987089&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;roboto&amp;quot; , sans-serif ; background-color: rgb(255 , 255 , 255) ; vertical-align: baseline&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#3333ff&quot;&gt;longevityresearchinstitute.io&lt;/font&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
